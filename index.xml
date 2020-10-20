@@ -14,7 +14,7 @@
     <managingEditor>loan.gauchat@hotmail.com (Loan Gauchat)</managingEditor>
     <webMaster>loan.gauchat@hotmail.com (Loan Gauchat)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 00:04:50 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://loangauchat.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,12 +26,12 @@
 
       
       <item>
-        <title>My Awesome links</title>
-        <link>http://loangauchat.github.io/posts/mylinks/</link>
-        <pubDate>Tue, 31 Dec 2019 00:04:50 +0900</pubDate>
+        <title>Basics With AWS - Cloud Computing</title>
+        <link>http://loangauchat.github.io/posts/awsone/</link>
+        <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
         <author>loan.gauchat@hotmail.com (Loan Gauchat)</author>
-        <atom:modified>Tue, 31 Dec 2019 00:04:50 +0900</atom:modified>
-        <guid>http://loangauchat.github.io/posts/mylinks/</guid>
+        <atom:modified>Tue, 31 Dec 2019 00:00:00 +0000</atom:modified>
+        <guid>http://loangauchat.github.io/posts/awsone/</guid>
         <description></description>
         
         <dc:creator>Loan Gauchat</dc:creator>
