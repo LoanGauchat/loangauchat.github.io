@@ -32,7 +32,8 @@
         <author>loan.gauchat@hotmail.com (Loan Gauchat)</author>
         <atom:modified>Mon, 01 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>http://loangauchat.github.io/posts/awsone/</guid>
-        <description>In this project, I will try to retrieve data from the web in order to build a script that can recognize a mushroom and tell us if it is edible, unedible or poisonous.</description>
+        <description>In this project, The objective is to build a script that can identify a mushroom and tell us if it is edible, unedible or poisonous.
+First data needs to be gathered. To do so the website http://www.mushroom.world will be used as it contains an extensive database of mushrooms and their characteristics. As the database is not downloadable it will need to be wrangled.</description>
         
         <dc:creator>Loan Gauchat</dc:creator>
         
